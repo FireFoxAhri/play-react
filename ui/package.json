@@ -8,6 +8,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "http://localhost:9000",
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
